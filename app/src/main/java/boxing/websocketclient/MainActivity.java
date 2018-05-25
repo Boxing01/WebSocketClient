@@ -44,8 +44,6 @@ public class MainActivity extends AppCompatActivity {
         mEtContent = findViewById(R.id.et_content);
         mBtSent = findViewById(R.id.bt_send);
         init();
-
-
     }
 
     private void init() {
