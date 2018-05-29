@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="boxing.websocketclient.MainActivity">
+    tools:context="boxing.websocketclient.activitys.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -24,6 +24,7 @@
         <Button
             android:id="@+id/bt_send"
             android:layout_width="wrap_content"
+            android:onClick="onSend"
             android:text="发送"
             android:layout_height="wrap_content"  />
 

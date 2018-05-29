@@ -3,4 +3,59 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--字体颜色-->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_000">#000000</color>
+    <color name="text_333">#333333</color>
+    <!-- 透明度 40% 白的/-->
+    <color name="text_fff_40">#66ffffff</color>
+    <!--透明度 40%/-->
+    <color name="text_000_40">#66000000</color>
+    <!--透明度 60%/-->
+    <color name="text_000_60">#99000000</color>
+    <!--透明度 80%/-->
+    <color name="text_000_80">#cc000000</color>
+    <color name="text_666">#666666</color>
+    <color name="text_aaa">#aaaaaa</color>
+    <color name="text_ccc">#cccccc</color>
+    <color name="text_f9">#f9f9f9</color>
+    <!-- 透明度 40%/-->
+    <color name="text_f9_40">#66f9f9f9</color>
+    <!--透明度 80%/-->
+    <color name="text_f9_80">#ccf9f9f9</color>
+    <!--完成-->
+    <color name="text_comp">#f5aa89</color>
+    <!--未完成-->
+    <color name="text_un_comp">#16bdbf</color>
+    <color name="text_fc">#FCFCFF</color>
+    <color name="text_time">#698AEC</color>
+    <color name="text_05">#050508</color>
+    <color name="text_67e">#697cec</color>
+    <color name="text_40">#404040</color>
+    <color name="text_blue">#16bdbf</color>
+    <color name="text_red">#f57474</color>
+    <color name="text_87">#878787</color>
+    <color name="text_1bb">#16BDBF</color>
+
+
+    <!--背景颜色-->
+    <!-- 透明度 40%/-->
+    <color name="bg_fff_40">#66ffffff</color>
+    <!--透明度 80%/-->
+    <color name="bg_000_80">#cc000000</color>
+    <color name="bg_start">#69a2ec</color>
+    <color name="bg_end">#696cec</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_000">#000000</color>
+    <color name="bg_f0">#F0F2F5</color>
+    <color name="bg_fb">#FBFBFB</color>
+    <color name="bg_67e">#697cec</color>
+    <color name="bg_e0">#e0e0e0</color>
+
+    <!--分割线颜色 1px-->
+    <color name="line_f0">#f0f0f0</color>
+    <color name="line_blue">#696CEC</color>
+    <color name="line_F0F2FD">#F0F2FD</color>
+    <color name="line_e0">#E0E0E0</color>
 </resources>

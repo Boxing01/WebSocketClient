@@ -1,4 +1,4 @@
-package boxing.websocketclient;
+package boxing.websocketclient.models;
 
 /**
  * @author Liuyuli
@@ -14,6 +14,9 @@ public class IMMessage {
 
     // 接受者id
     private int receiverId;
+
+    // 群组 id
+    private int groupId;
 
     // 消息内容
     private String content;
@@ -36,6 +39,14 @@ public class IMMessage {
 
     public int getReceiverId() {
         return receiverId;
+    }
+
+    public int getGroupId() {
+        return groupId;
+    }
+
+    public void setGroupId(int groupId) {
+        this.groupId = groupId;
     }
 
     public void setReceiverId(int receiverId) {
